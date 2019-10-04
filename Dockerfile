@@ -1,5 +1,5 @@
 FROM  nvidia/cuda:10.1-devel-ubuntu18.04
-LABEL author="Guilherme Hartmann <guilhermehartmann@gmx.com>"
+LABEL author="G"
 
 ENV DEBIAN_FRONTEND noninteractive
 
